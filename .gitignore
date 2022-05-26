@@ -1,3 +1,10 @@
+# 오후 4:14 2022-05-26 추가
+.vs/
+.sln
+.vcxproj
+.vcxproj.filters
+.user
+
 # Prerequisites
 *.d
 
